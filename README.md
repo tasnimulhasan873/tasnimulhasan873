@@ -29,9 +29,9 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/tasnimulhasan8/))  
-[![GitHub]([https://img.shields.io/badge/GitHub-000?logo=github)]([https://github.com/your-username](https://github.com/tasnimulhasan873)])  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasnimul873@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tasnimulhasan8/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasnimul873@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)]([https://www.facebook.com/tasnimul.hasan.581/](https://www.facebook.com/tasnimul.hasan.zoy/))
 
 ---
 
