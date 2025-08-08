@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="gitbanner.png" alt="banner" width="100%" />
+<img src="gitBanner.png" alt="banner" width="100%" />
 
 # Hi there, I'm Md. Tasnimul Hasan 
 ### 🧑‍💻 MERN Stack Developer  
