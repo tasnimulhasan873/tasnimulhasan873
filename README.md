@@ -51,7 +51,8 @@
 ## 📊 GitHub Stats  
 ![Tasnimul's GitHub stats](https://github-readme-stats.vercel.app/api?username=tasnimulhasan873&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tasnimulhasan873&layout=compact&theme=radical)](https://github.com/tasnimulhasan873)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tasnimulhasan873&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=tasnimulhasan873&theme=radical)
+
 
 
 ---
